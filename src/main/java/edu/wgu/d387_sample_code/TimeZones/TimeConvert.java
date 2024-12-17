@@ -1,4 +1,4 @@
-package edu.wgu.d387_sample_code.Timezone;
+package edu.wgu.d387_sample_code.TimeZones;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 

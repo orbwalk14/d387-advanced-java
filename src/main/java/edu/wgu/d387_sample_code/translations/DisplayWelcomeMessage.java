@@ -1,4 +1,4 @@
-package edu.wgu.d387_sample_code.Translations;
+package edu.wgu.d387_sample_code.translations;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

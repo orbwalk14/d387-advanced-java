@@ -1,4 +1,4 @@
-package edu.wgu.d387_sample_code.Timezone;
+package edu.wgu.d387_sample_code.TimeZones;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
